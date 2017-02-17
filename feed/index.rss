@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MODEXTREME</title>
+	<atom:link href="http://modextreme.org/feed/" rel="self" type="application/rss+xml" />
+	<link>http://modextreme.org</link>
+	<description>Modelling vegetation response to extreme events</description>
+	<lastBuildDate>Mon, 23 Jan 2017 11:18:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">62623974</site>	<item>
+		<title>Yield gaps of winter wheat in Europe</title>
+		<link>http://modextreme.org/yield-gaps-winter-wheat-europe/</link>
+		<pubDate>Mon, 25 Apr 2016 13:53:53 +0000</pubDate>
+		<dc:creator><![CDATA[argyris]]></dc:creator>
+				<category><![CDATA[Science briefs]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?p=1946</guid>
+		<description><![CDATA[Ma et al. used the ecosystem model ANTHRO-BGC to simulate potential yields of winter wheat in Europe (in the years 2000s) and estimated yield gaps by comparing them to actual values. The spatial distribution of yield gaps and an estimation of projected potential yields showed where and how yield production can be improved, while also [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1946</post-id>	</item>
+		<item>
+		<title>Subjectivity issues in crop model calibration</title>
+		<link>http://modextreme.org/crop-model-calibration-subjectivity/</link>
+		<pubDate>Mon, 25 Apr 2016 13:48:04 +0000</pubDate>
+		<dc:creator><![CDATA[argyris]]></dc:creator>
+				<category><![CDATA[Science briefs]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?p=1943</guid>
+		<description><![CDATA[The vulnerability of agricultural production systems to climate variation and extremes is increasingly being investigated with crop models, which poses the need of properly managing the (unavoidable) uncertainty associated with model estimates. Confalonieri et al. addressed the issue of assessing the uncertainty associated with model calibration by different users. Using five crop models of common [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1943</post-id>	</item>
+		<item>
+		<title>New modelling solutions to simulate hazelnut</title>
+		<link>http://modextreme.org/simulate-hazelnut/</link>
+		<pubDate>Sun, 10 Apr 2016 13:10:15 +0000</pubDate>
+		<dc:creator><![CDATA[argyris]]></dc:creator>
+				<category><![CDATA[Science briefs]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?p=1924</guid>
+		<description><![CDATA[The importance of hazelnut (Corylus avellana L.) for the food industry is rising. The sensitivity of this species to water stress and high temperatures (especially during fruit ripening) is well documented, which poses the need of using process-based models to support the analysis of the impact of environmental and management conditions on growth and production. For [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1924</post-id>	</item>
+		<item>
+		<title>Uncertainty in observations affecting model calibration and predictions</title>
+		<link>http://modextreme.org/model-calibration-uncertainty/</link>
+		<pubDate>Tue, 15 Mar 2016 10:29:58 +0000</pubDate>
+		<dc:creator><![CDATA[argyris]]></dc:creator>
+				<category><![CDATA[Science briefs]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?p=1905</guid>
+		<description><![CDATA[When observational data are used for calibrating models, inconsistencies between the temporal resolution of observations and the scale of simulation may introduce uncertainties in model outputs. This is especially true when large area simulations are run and extreme weather events occur with complex and fine granularity. Using virtual series of observations from Latin hypercube sampling, [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1905</post-id>	</item>
+		<item>
+		<title>A dynamic model of potential growth of olive orchards</title>
+		<link>http://modextreme.org/olive-orchards-potential-growth/</link>
+		<pubDate>Tue, 09 Feb 2016 19:24:09 +0000</pubDate>
+		<dc:creator><![CDATA[argyris]]></dc:creator>
+				<category><![CDATA[Science briefs]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?p=1895</guid>
+		<description><![CDATA[Olive trees represent an extended horticultural crop in the Mediterranean Basin. The quantitative study of olive cropping systems via modelling is a crucial step in understanding their behaviour in response to climatic and management factors. The study by Morales et al. (2016) presents a model of potential olive oil production based on a three-dimensional model [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1895</post-id>	</item>
+		<item>
+		<title>Effects of soil temperature on root water uptake capacity by trees</title>
+		<link>http://modextreme.org/soil-temperature-effects-on-root-water-uptake/</link>
+		<pubDate>Tue, 09 Feb 2016 19:22:30 +0000</pubDate>
+		<dc:creator><![CDATA[argyris]]></dc:creator>
+				<category><![CDATA[Science briefs]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?p=1892</guid>
+		<description><![CDATA[The water uptake capacity of a root varies in response to temperature, reducing it as the soil is cooled down. However, this phenomenon is usually overlooked when modelling tree transpiration. Measurements made on olive (Olea europea L.) ‘Picual’ and a hybrid rootstock, GF677, on a Mediterranean climate along three consecutive years, showed a 3.5-folds reduction for [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1892</post-id>	</item>
+		<item>
+		<title>Indicators to anticipate extreme yield losses</title>
+		<link>http://modextreme.org/extreme-yield-losses-indicators/</link>
+		<pubDate>Thu, 04 Feb 2016 20:19:07 +0000</pubDate>
+		<dc:creator><![CDATA[argyris]]></dc:creator>
+				<category><![CDATA[Science briefs]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?p=1887</guid>
+		<description><![CDATA[The evaluation and improvement of crop yield forecasting systems is important because many strategies respond to the expected levels of crop production. With a possible increasing frequency of abnormal climate conditions in the coming decades, it is also important that such forecasts accurately predict extreme yield losses. In their study, Ben-Ari et al. (2016), provide a [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1887</post-id>	</item>
+		<item>
+		<title>Seasonal effects of drought on herbage growth in Switzerland</title>
+		<link>http://modextreme.org/herbage-growth-drought-switzerland/</link>
+		<pubDate>Fri, 08 Jan 2016 11:53:26 +0000</pubDate>
+		<dc:creator><![CDATA[argyris]]></dc:creator>
+				<category><![CDATA[Science briefs]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?p=1873</guid>
+		<description><![CDATA[There is an increasing interest for using grassland production models in support of grassland management. But for decision aid to be effective, a good model performance under a wide range of environmental conditions is imperative. Calanca et al. examined the ability of the grassland model published by Jouven et al. (2006, Grass Forage Sci. 61, [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1873</post-id>	</item>
+		<item>
+		<title>Bayesian calibration of a grassland model under water stress conditions</title>
+		<link>http://modextreme.org/bayesian-calibration/</link>
+		<pubDate>Fri, 04 Dec 2015 13:44:45 +0000</pubDate>
+		<dc:creator><![CDATA[argyris]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?p=1861</guid>
+		<description><![CDATA[Bayesian calibration of model parameters holds potential to reduce and understand the uncertainty surrounding model outputs. With focus on a complex model of grassland systems (PaSim – Pasture Simulation model), and under conditions of altered climate (i.e. precipitation reduction), Ben Touhami and Bellocchi showed that Bayesian calibration can help in reducing uncertainties associated with model [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1861</post-id>	</item>
+		<item>
+		<title>Improved rice ideotypes to resist/tolerate biotic and abiotic stressors</title>
+		<link>http://modextreme.org/improved-rice-ideotypes/</link>
+		<pubDate>Wed, 28 Oct 2015 21:48:44 +0000</pubDate>
+		<dc:creator><![CDATA[argyris]]></dc:creator>
+				<category><![CDATA[Science briefs]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?p=1763</guid>
+		<description><![CDATA[The development of new varieties better adapted to future climate is one of the most effective strategies to alleviate the impact of climate change on agriculture and related food-security issues. Identifying key traits for specific agro-environmental contexts is thus a crucial point within breeding programs. The study of Paleari et al. (2015) represents the first [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1763</post-id>	</item>
+	</channel>
+</rss>

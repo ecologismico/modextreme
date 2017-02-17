@@ -1,0 +1,10 @@
+.post_thumbnail{margin:8px 0px;}
+.post_content{border-bottom:1px solid #757575; margin:8px;}
+.widget-area .widget p {margin: 5px !important;}
+.post_thumbnail{float: left !important;  margin-right: 20px !important;}
+.post_data{overflow: hidden;display: inline-block;width:100%;}
+
+
+@media only screen and (max-width: 1024px) {
+	.post_content, .post_content .post_scroll,.post_content .news_scroll, .post_content .post_scroll .newsdesc, .post_content .news_scroll .newsdesc{width:100% !important;}
+}

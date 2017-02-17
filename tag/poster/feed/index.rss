@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>poster &#8211; MODEXTREME</title>
+	<atom:link href="http://modextreme.org/tag/poster/feed/" rel="self" type="application/rss+xml" />
+	<link>http://modextreme.org</link>
+	<description>Modelling vegetation response to extreme events</description>
+	<lastBuildDate>Mon, 23 Jan 2017 11:18:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">62623974</site>	<item>
+		<title>AgMIP 4th Annual Workshop</title>
+		<link>http://modextreme.org/event/agmip-2013/</link>
+		<pubDate>Sun, 27 Oct 2013 22:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ioannis]]></dc:creator>
+				<category><![CDATA[AgMIP]]></category>
+		<category><![CDATA[plenary]]></category>
+		<category><![CDATA[poster]]></category>
+		<category><![CDATA[WP6]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?post_type=tribe_events&#038;p=1098</guid>
+		<description><![CDATA[MODEXTREME project and objectives was introduced to the AgMIP 4th Annual Workshop, during the speed science session of Day 2. #ModExtreme project presentation at 4th #AgMIP Global Workshop in NY! pic.twitter.com/2VZYBJaTiO &#8212; Ioannis Athanasiadis (@inathens) October 29, 2013 &#160; Also, we contributed with a poster presenting the project structure and objectives.]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1177</post-id>	</item>
+	</channel>
+</rss>

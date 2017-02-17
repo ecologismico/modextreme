@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TFS &#8211; MODEXTREME</title>
+	<atom:link href="http://modextreme.org/tag/tfs/feed/" rel="self" type="application/rss+xml" />
+	<link>http://modextreme.org</link>
+	<description>Modelling vegetation response to extreme events</description>
+	<lastBuildDate>Mon, 23 Jan 2017 11:18:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">62623974</site>	<item>
+		<title>JRC-MARS Training on Team Foundation Server</title>
+		<link>http://modextreme.org/event/tfs2015/</link>
+		<pubDate>Mon, 08 Jun 2015 21:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ioannis Athanasiadis]]></dc:creator>
+				<category><![CDATA[JRC]]></category>
+		<category><![CDATA[MARS]]></category>
+		<category><![CDATA[TFS]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">http://modextreme.org/?post_type=tribe_events&#038;p=1654</guid>
+		<description><![CDATA[Work Package 2 includes a number of activities which require team development in several software code projects.  Some of these projects, in perspective including the activities of Work Package 5, will require interaction with the Joint Research Centre – MARS unit, which is one of the main stakeholders of the project.  Microsoft Team Foundation Server [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1654</post-id>	</item>
+	</channel>
+</rss>
