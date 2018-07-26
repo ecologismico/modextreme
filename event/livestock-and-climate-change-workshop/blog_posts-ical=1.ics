@@ -7,104 +7,163 @@ X-WR-CALDESC:Posts from MODEXTREME
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20160425T165353
-DTEND;TZID=Europe/Athens:20160425T175353
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1946
+DTSTAMP:20160425T135353Z
+DTSTART:20160425T135353Z
+DTEND:20160425T145353Z
+ORGANIZER:MODEXTREME
 SUMMARY:Yield gaps of winter wheat in Europe
 URL;VALUE=URI:http://modextreme.org/yield-gaps-winter-wheat-europe/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20160425T164804
-DTEND;TZID=Europe/Athens:20160425T174804
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1943
+DTSTAMP:20160425T134804Z
+DTSTART:20160425T134804Z
+DTEND:20160425T144804Z
+ORGANIZER:MODEXTREME
 SUMMARY:Subjectivity issues in crop model calibration
 URL;VALUE=URI:http://modextreme.org/crop-model-calibration-subjectivity/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20160410T161015
-DTEND;TZID=Europe/Athens:20160410T171015
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1924
+DTSTAMP:20160410T131015Z
+DTSTART:20160410T131015Z
+DTEND:20160410T141015Z
+ORGANIZER:MODEXTREME
 SUMMARY:New modelling solutions to simulate hazelnut
 URL;VALUE=URI:http://modextreme.org/simulate-hazelnut/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20160315T122958
-DTEND;TZID=Europe/Athens:20160315T132958
-SUMMARY:Uncertainty in observations affecting model calibration and predictions
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1905
+DTSTAMP:20160315T222856Z
+DTSTART:20160315T102958Z
+DTEND:20160315T112958Z
+ORGANIZER:MODEXTREME
+SUMMARY:Uncertainty in observations affecting model calibration and
+ predictions
 URL;VALUE=URI:http://modextreme.org/model-calibration-uncertainty/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20160209T212409
-DTEND;TZID=Europe/Athens:20160209T222409
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1895
+DTSTAMP:20160209T192409Z
+DTSTART:20160209T192409Z
+DTEND:20160209T202409Z
+ORGANIZER:MODEXTREME
 SUMMARY:A dynamic model of potential growth of olive orchards
 URL;VALUE=URI:http://modextreme.org/olive-orchards-potential-growth/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20160209T212230
-DTEND;TZID=Europe/Athens:20160209T222230
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1892
+DTSTAMP:20160209T192230Z
+DTSTART:20160209T192230Z
+DTEND:20160209T202230Z
+ORGANIZER:MODEXTREME
 SUMMARY:Effects of soil temperature on root water uptake capacity by trees
-URL;VALUE=URI:http://modextreme.org/soil-temperature-effects-on-root-water-uptake/
+URL;VALUE=URI:http://modextreme.org/soil-temperature-effects-on-root-water
+ -uptake/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20160204T221907
-DTEND;TZID=Europe/Athens:20160204T231907
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1887
+DTSTAMP:20160204T201907Z
+DTSTART:20160204T201907Z
+DTEND:20160204T211907Z
+ORGANIZER:MODEXTREME
 SUMMARY:Indicators to anticipate extreme yield losses
 URL;VALUE=URI:http://modextreme.org/extreme-yield-losses-indicators/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20160108T135326
-DTEND;TZID=Europe/Athens:20160108T145326
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1873
+DTSTAMP:20160108T115326Z
+DTSTART:20160108T115326Z
+DTEND:20160108T125326Z
+ORGANIZER:MODEXTREME
 SUMMARY:Seasonal effects of drought on herbage growth in Switzerland
 URL;VALUE=URI:http://modextreme.org/herbage-growth-drought-switzerland/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20151204T154445
-DTEND;TZID=Europe/Athens:20151204T164445
-SUMMARY:Bayesian calibration of a grassland model under water stress conditions
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1861
+DTSTAMP:20151204T134445Z
+DTSTART:20151204T134445Z
+DTEND:20151204T144445Z
+ORGANIZER:MODEXTREME
+SUMMARY:Bayesian calibration of a grassland model under water stress
+ conditions
 URL;VALUE=URI:http://modextreme.org/bayesian-calibration/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20151028T234844
-DTEND;TZID=Europe/Athens:20151029T004844
-SUMMARY:Improved rice ideotypes to resist/tolerate biotic and abiotic stressors
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1763
+DTSTAMP:20151029T114252Z
+DTSTART:20151028T214844Z
+DTEND:20151028T224844Z
+ORGANIZER:MODEXTREME
+SUMMARY:Improved rice ideotypes to resist/tolerate biotic and abiotic
+ stressors
 URL;VALUE=URI:http://modextreme.org/improved-rice-ideotypes/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20150626T003755
-DTEND;TZID=Europe/Athens:20150626T013755
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1667
+DTSTAMP:20150625T220701Z
+DTSTART:20150625T213755Z
+DTEND:20150625T223755Z
+ORGANIZER:MODEXTREME
 SUMMARY:Replacing (climate change threatened) maize systems with giant reed
 URL;VALUE=URI:http://modextreme.org/replacing-maize-giant-reed/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20150526T163034
-DTEND;TZID=Europe/Athens:20150526T173034
-SUMMARY:Coordination of hydraulic controls in plants for predicting genetic variability
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1645
+DTSTAMP:20150526T135255Z
+DTSTART:20150526T133034Z
+DTEND:20150526T143034Z
+ORGANIZER:MODEXTREME
+SUMMARY:Coordination of hydraulic controls in plants for predicting
+ genetic variability
 URL;VALUE=URI:http://modextreme.org/hydraulic-controls-in-plants/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20150521T182544
-DTEND;TZID=Europe/Athens:20150521T192544
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1614
+DTSTAMP:20150526T134631Z
+DTSTART:20150521T152544Z
+DTEND:20150521T162544Z
+ORGANIZER:MODEXTREME
 SUMMARY:High-resolution, bias-corrected climate change projections
-URL;VALUE=URI:http://modextreme.org/bias-correcter-climate-change-projection/
+URL;VALUE=URI:http://modextreme.org/bias-correcter-climate-change-projecti
+ on/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20150329T010601
-DTEND;TZID=Europe/Athens:20150329T020601
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1574
+DTSTAMP:20150330T140334Z
+DTSTART:20150328T230601Z
+DTEND:20150329T000601Z
+ORGANIZER:MODEXTREME
 SUMMARY:Field datasets in MODEXTREME
 URL;VALUE=URI:http://modextreme.org/working-sites-modextreme/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20150106T113247
-DTEND;TZID=Europe/Athens:20150106T123247
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1353
+DTSTAMP:20150113T105049Z
+DTSTART:20150106T093247Z
+DTEND:20150106T103247Z
+ORGANIZER:MODEXTREME
 SUMMARY:Statistical models for simulating extreme yield anomalies
-URL;VALUE=URI:http://modextreme.org/statistical-models-for-simulating-extreme-yield-anomalies/
+URL;VALUE=URI:http://modextreme.org/statistical-models-for-simulating-extr
+ eme-yield-anomalies/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20141220T012556
-DTEND;TZID=Europe/Athens:20141220T022556
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1341
+DTSTAMP:20150106T094735Z
+DTSTART:20141219T232556Z
+DTEND:20141220T002556Z
+ORGANIZER:MODEXTREME
 SUMMARY:Effective evaluation of agro-environmental simulations
-URL;VALUE=URI:http://modextreme.org/effective-evaluation-of-agro-environmental-simulations/
+URL;VALUE=URI:http://modextreme.org/effective-evaluation-of-agro-environme
+ ntal-simulations/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Athens:20141218T121841
-DTEND;TZID=Europe/Athens:20141218T131841
+UID:http%3A%2F%2Fmodextreme.org%2F%3Fp%3D1317
+DTSTAMP:20150106T094859Z
+DTSTART:20141218T101841Z
+DTEND:20141218T111841Z
+ORGANIZER:MODEXTREME
 SUMMARY:A model for the dynamics of plant communities
 URL;VALUE=URI:http://modextreme.org/cosmo/
 END:VEVENT
